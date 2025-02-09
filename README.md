@@ -24,7 +24,9 @@ With that being said, I created this template as a way to speed up the process t
 4. Clone to your machine
 5. Edit this README to follow format (if any) for WODs
 6. Rename the `rename.ts` file 
-    - make sure to edit the `src` attribute in the `script` tag of the index.html file! 
+    - make sure to edit the `src` attribute in the `script` tag of the index.html file!
+
+Also don't forget to run **npm install**!
 
 ## Useful Function
 
