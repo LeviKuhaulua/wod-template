@@ -8,7 +8,7 @@ Purpose: I felt like it was too time consuming to do the following for WOD assig
 
 After the **setup** is completed, could we then work on the WOD assignment, which would waste valuable time on completing the programming challenges if things like eslint didn't work. 
 
-With that being said, I created this template as a way to speed up the process to creating new repositories and ensuring that everything works. I am **assuming** that the following packages remain consistent: 
+With that being said, I created this template as a way to speed up the process to creating new repositories and ensuring that everything works. I am **assuming** that the following files are consistent for the WODs: 
 
 - `.eslintrc.js`
 - `.eslintignore`
